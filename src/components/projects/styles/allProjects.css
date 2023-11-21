@@ -1,0 +1,22 @@
+.all-projects-container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: -35px;
+	margin-right: -35px;
+}
+
+.all-projects-project {
+	width: calc(100% / 1);
+	box-sizing: border-box;
+	padding: 10px;
+	overflow: hidden;
+}
+
+@media (max-width: 600px) {
+	.all-projects-project {
+		width: calc(100% / 2);
+	}
+}
