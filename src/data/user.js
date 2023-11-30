@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
-		title: "Tanya Feest",
-		name: "Mr. Tanya Feest",
+		title: "Mohamed Kuijpers",
+		name: "Mr. Mohamed Kuijpers",
 		email: "dove.engineer86@gmail.com",
 		logo: "./logo.png",
 	},
@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Senior Full Stack developer",
 		description:
-			"I have worked in web development for nearly 6+ years as a Full Stack Developer. I've always had a love for technology so taking the initiative to learn Full Stack Web Development has definitely been one of the most challenging yet amazing decisions I've ever made. Contributing to web development projects and overcoming both personal and professional challenges have only further motivated me to continue pursuing my career goals within the software development industry This journey has also taught me to believe and be kind to myself, anything is possible with time and dedication. I can't wait to see where this road take me and I wouldn't have it any other way! When I'm not on the job, I love hiking with my dog, working my way through every recipe in the family cookbook, and indulging my love for seeing new places.",
+			"I have worked in web development for nearly 8+ years as a Full Stack Developer. I've always had a love for technology so taking the initiative to learn Full Stack Web Development has definitely been one of the most challenging yet amazing decisions I've ever made. Contributing to web development projects and overcoming both personal and professional challenges have only further motivated me to continue pursuing my career goals within the software development industry This journey has also taught me to believe and be kind to myself, anything is possible with time and dedication. I can't wait to see where this road take me and I wouldn't have it any other way! When I'm not on the job, I love hiking with my dog, working my way through every recipe in the family cookbook, and indulging my love for seeing new places.",
 	},
 
 	about: {

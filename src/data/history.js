@@ -2,7 +2,7 @@ import React from "react";
 
 function history_1() {
 	return {
-		date: "7/2021 ~ 3/2023",
+		date: "7/2019 ~ 3/2023",
 		title: "Senior Laravel Developer",
 		description:
 			"I have worked on CMC GLOBAL(Japan)",
@@ -44,7 +44,7 @@ function history_1() {
 
 function history_2() {
 	return {
-		date: "9/2018 ~ 5/2022",
+		date: "9/2017 ~ 5/2019",
 		title: "Senior Front-End  Developer",
 		description:
 			"I have worked BrainCave Software Pvt. Ltd.(Singapore)",
@@ -76,24 +76,26 @@ function history_2() {
 
 function history_3(){
 	return {
-		date: "7/2017 ~ 3/2018",
-		title: "Web Developer",
+		date: "7/2015 ~ 3/2017",
+		title: "Junior PHP Developer",
 		description:
 			"I have worked AMSTERDAM SOFTWARE",
 		style: ``,
 		keywords: [
-			"Web Developer"
+			"Junior PHP Developer"
 		],
 		body: (
 			<React.Fragment>
-				<div> - Participated in a team project for building customer facing web applications using React, PostgreSQL and Node.js.</div>
-				<div> - Created and improved back-end and front-end solutions on complex projects using Vue.js and Nuxt.js, Express, PostgreSQL, Prisma.</div>
+				<div> - Developed a PDF Generator system that transforms a crafted HTML document into PDF format using Webkit.</div>
+				<div> - Detected several security-related issues and started tasks to solve them.</div>
 				<div> - Integrated Infinite scroll for pages with thousands of data to improve UX.</div>
-				<div> - Built and deployed using Jenkins and AppEngine.</div>
+				<div> - Maintained and implemented site customizations and updates (PHP, JavaScript, HTML, CSS).</div>
 				<div> - Developed interfaces, routes, containers, lazy loading modules to boost UI/UX using third-party libraries.</div>
 				<div> - Integrated file upload feature as well as importing and exporting dataset feature.</div>
 				<div> - Implemented the React front-end for a "play for purpose" NFT game called Zeedz.</div>
 				<div> - Set up integration and E2E tests using the Cypress framework.</div>
+				<div> - Created an intelligence system for gathering and processing data from the game Prime World, landing pages, and advertising campaigns of the game. It helped to measure all KPIs and optimize all steps of the buying cycle.</div>
+				<div> - Led the effort to carry out the needed adaptations to migrate the sites from PHP 5 to PHP 7 and from PHP 7 to PHP 8.1.</div>
 				<div> - Built a dashboard for publishers that allows them to manage and integrate their inventory. Technologies used : React.JS + Reflux, Gulp, Capistrano.</div>
 			</React.Fragment>
 		),
