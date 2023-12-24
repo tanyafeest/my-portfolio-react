@@ -2,7 +2,7 @@ const INFO = {
 	main: {
 		title: "Mohamed Kuijpers",
 		name: "Mr. Mohamed Kuijpers",
-		email: "dove.engineer86@gmail.com",
+		email: "donschulz421@gmail.com",
 		logo: "./logo.png",
 	},
 
