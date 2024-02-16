@@ -2,12 +2,12 @@ import React from "react";
 
 function history_1() {
 	return {
-		date: "7/2019 ~ 3/2023",
-		title: "Senior Laravel Developer",
+		date: "2/2022 ~ 3/2023",
+		title: "Senior Front-end Developer",
 		description:
-			"I have worked on CMC GLOBAL(Japan)",
+			"I have worked in Tianlu Digital Services in Spain",
 		keywords: [
-			"Senior Laravel Developer"
+			"Senior Front-end Developer"
 		],
 		style: `
 				.article-content {
@@ -23,20 +23,10 @@ function history_1() {
 				`,
 		body: (
 			<React.Fragment>
-				<div> - Created project using Laravel's Vapor (AWS serverless) to scan, activate, void, and check the balance of gift cards.</div>
-				<div> - Applied console commands to implement cron job in new projects.</div>
-				<div> - Improved Laravel version v7 to v8 using Rector.</div>
-				<div> - Completed Motive Mob project with Laravel v9 + Tailwind CSS + Vite.</div>
-				<div> - Integrated Spotify, Google OAuth 2, Spotify etc using Cashier and Socialite.</div>
-				<div> - Sent SMS using Twilio and Integrated Facebook, Twitter, Apple and Instagram.</div>
-				<div> - Synchronized two PHP, Smarty, and jQuery model-view-controller (MVC) systems such that they swapped out modules.</div>
-				<div> - Developed a custom PHP website for video games and movies, that supported a user account, favorites, and reviews.</div>
-				<div> - Background in MVC style frameworks (eg laravel, Symfony, Codeigniter).</div>
-				<div> - Experience developing highly scalable and composable RESTful APIs (JSON, API design, HATEOAS, Swagger, Hypermedia, JSON-LD, HAL)</div>
-				<div> - Experience with REST APIs, with a basic understanding of object-oriented programming (OOP) design patterns.</div>
-				<div> - Experience with REST APIs, with a basic understanding of object-oriented programming (OOP) design patterns.</div>
-				<div> - Experience with MySQL (relational concepts, SQL, connection pooling. ER diagrams).</div>
-				<div> - Introduced and configured the application to use Git for both version-control and deployment.</div>
+				<div> - Decreased load times by 58% using isomorphic React and Node.js for 13 web applications one month after taking over the project</div>
+				<div> - Collaborated with the back-end team to integrate user-facing elements with server-side logic, resulting in a 20% reduction in server response time.</div>
+				<div> - Reduced the time spent on development by 73% by creating maintainable reusable components.</div>
+				<div> - Created an interactive and user-friendly website experience by working with a team of 25 developers for one month.</div>
 			</React.Fragment>
 		),
 	};
@@ -44,13 +34,13 @@ function history_1() {
 
 function history_2() {
 	return {
-		date: "9/2017 ~ 5/2019",
-		title: "Senior Front-End  Developer",
+		date: "3/2019 ~ 11/2021",
+		title: "React / React Native Specialist",
 		description:
-			"I have worked BrainCave Software Pvt. Ltd.(Singapore)",
+			"I have worked in Mavlers(Netherland)",
 		style: ``,
 		keywords: [
-			"Senior Front-end Developer"
+			"React / React Native Specialist"
 		],
 		body: (
 			<React.Fragment>
@@ -74,34 +64,6 @@ function history_2() {
 	};
 }
 
-function history_3(){
-	return {
-		date: "7/2015 ~ 3/2017",
-		title: "Junior PHP Developer",
-		description:
-			"I have worked AMSTERDAM SOFTWARE",
-		style: ``,
-		keywords: [
-			"Junior PHP Developer"
-		],
-		body: (
-			<React.Fragment>
-				<div> - Developed a PDF Generator system that transforms a crafted HTML document into PDF format using Webkit.</div>
-				<div> - Detected several security-related issues and started tasks to solve them.</div>
-				<div> - Integrated Infinite scroll for pages with thousands of data to improve UX.</div>
-				<div> - Maintained and implemented site customizations and updates (PHP, JavaScript, HTML, CSS).</div>
-				<div> - Developed interfaces, routes, containers, lazy loading modules to boost UI/UX using third-party libraries.</div>
-				<div> - Integrated file upload feature as well as importing and exporting dataset feature.</div>
-				<div> - Implemented the React front-end for a "play for purpose" NFT game called Zeedz.</div>
-				<div> - Set up integration and E2E tests using the Cypress framework.</div>
-				<div> - Created an intelligence system for gathering and processing data from the game Prime World, landing pages, and advertising campaigns of the game. It helped to measure all KPIs and optimize all steps of the buying cycle.</div>
-				<div> - Led the effort to carry out the needed adaptations to migrate the sites from PHP 5 to PHP 7 and from PHP 7 to PHP 8.1.</div>
-				<div> - Built a dashboard for publishers that allows them to manage and integrate their inventory. Technologies used : React.JS + Reflux, Gulp, Capistrano.</div>
-			</React.Fragment>
-		),
-	};
-}
-
-const MyHistory = [history_1, history_2, history_3];
+const MyHistory = [history_1, history_2];
 
 export default MyHistory;
